@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 25th February, 2023
+### Day 0: 24th February, 2023
 
 **Today's Progress**: 
 Started on FreeCodeCamp's survey form challenge for the basic HTML and CSS certification. Thought about making an old-school Match.com dating survey to add a little pizzazz to it. I bet this survey form isn't too far off what dating websites would've been like when I was born.

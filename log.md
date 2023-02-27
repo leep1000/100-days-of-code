@@ -10,5 +10,17 @@ Started on FreeCodeCamp's survey form challenge for the basic HTML and CSS certi
 
 Got myself a little tangled up with my HTML - I could not seem to get two checkboxes to appear despite coding them. In the end, it was just a errant closing tag causing the issues. Need to work on best practices in terms of my structuring; it can be hard to find mistakes in a jumble of code.
 
+# 100 Days Of Code - Log
+
+### Day 1: 25th February, 2023
+
+**Today's Progress**: 
+
+Finished the HTML for the dating survey project, and it hits all the criteria for passing. The tasks are certainly getting harder, but keeping up for now. I set up my new office today, which is a breath of fresh air compared to what I had before.
+
+**Thoughts:** 
+
+It's nice that the structure of HTML and CSS are starting to feel like second nature to me now. Really enjoying the new work environment too. Not super coding related, but I've started to revise some A-Level maths (logs and inequalities) just to get my brain ready for the harder stuff once the bootcamp starts.
+
 **Link to work:** 
-[Calculator App](http://www.example.com)
+[Dating Survey App! HTML complete!](https://github.com/leep1000/Dating_Survey_Form)

@@ -24,3 +24,16 @@ It's nice that the structure of HTML and CSS are starting to feel like second na
 
 **Link to work:** 
 [Dating Survey App! HTML complete!](https://github.com/leep1000/Dating_Survey_Form)
+
+### Day 2: 26th February, 2023
+
+**Today's Progress**: 
+
+Took a small break from basic web design to improve my github knowledge, via [a cool interactive tutorial.](https://learngitbranching.js.org/) Really interesting to learn how a few commands have so much power.
+
+**Thoughts:** 
+
+It's a little scary to think how you can mess up an entire project with just a few errant commands. Merge conflicts looks scary.
+
+**Link to work:** 
+[Learn Git Branching!](https://learngitbranching.js.org/)

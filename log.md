@@ -10,8 +10,6 @@ Started on FreeCodeCamp's survey form challenge for the basic HTML and CSS certi
 
 Got myself a little tangled up with my HTML - I could not seem to get two checkboxes to appear despite coding them. In the end, it was just a errant closing tag causing the issues. Need to work on best practices in terms of my structuring; it can be hard to find mistakes in a jumble of code.
 
-# 100 Days Of Code - Log
-
 ### Day 1: 25th February, 2023
 
 **Today's Progress**: 

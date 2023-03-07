@@ -35,3 +35,17 @@ It's a little scary to think how you can mess up an entire project with just a f
 
 **Link to work:** 
 [Learn Git Branching Round 1](https://learngitbranching.js.org/)
+
+### Day 3: 7th March, 2023
+
+**Today's Progress**: 
+
+Had a very lovely holiday in Barcelona, hence the break between days. Went straight back into learning git, and I have now finished all the 'main' challenges. They're no slouch! I can certainly see how this method of version control has taken over the world.
+
+**Thoughts:** 
+
+I'm now using VSCode and Git Bash to update this log, so fingers crossed it goes right!
+
+**Link to work:** 
+[Learn Git Branching Round 2](https://learngitbranching.js.org/)
+

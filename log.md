@@ -34,4 +34,4 @@ Took a small break from basic web design to improve my github knowledge, via [a 
 It's a little scary to think how you can mess up an entire project with just a few errant commands. Merge conflicts looks scary.
 
 **Link to work:** 
-[Learn Git Branching!](https://learngitbranching.js.org/)
+[Learn Git Branching Round 1](https://learngitbranching.js.org/)
